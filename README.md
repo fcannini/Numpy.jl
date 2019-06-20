@@ -25,7 +25,7 @@ A siren's song to unwitting Pythonistas. Also a semantic/functional clone of the
 
 - Does it means that Numpy.jl will emulate all of Numpy's quirks and idiosyncrasies?
 
-    Yes, but possibly not all of them. It will be a delicate balance between avoiding [maintenance](https://devblogs.microsoft.com/oldnewthing/?s=Getting+MS-DOS+games+to+run+on+Windows+95&submit=%EE%9C%A1)  [hell](https://support.microsoft.com/en-us/help/214326/excel-incorrectly-assumes-that-the-year-1900-is-a-leap-year) and  throwing the [Principle of Least Surprise](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) out the window.
+    Yes, but possibly not all of them. It will be a delicate balance between avoiding [maintenance](https://devblogs.microsoft.com/oldnewthing/?s=Getting+MS-DOS+games+to+run+on+Windows+95&submit=%EE%9C%A1) [hell](https://support.microsoft.com/en-us/help/214326/excel-incorrectly-assumes-that-the-year-1900-is-a-leap-year) and  throwing the [Principle of Least Surprise](https://en.wikipedia.org/wiki/Principle_of_least_astonishment) out the window.
 
 
 - Does it means that Numpy.jl will implement 100% of Numpy's API?
@@ -45,7 +45,7 @@ A siren's song to unwitting Pythonistas. Also a semantic/functional clone of the
 
 - Will it be a wrapper around Numpy's libraries?
 
-    This goes to the "maybe in the future" category. [Scikit-learn.jl](/cstjean/ScikitLearn.jl) can do it with scikit-learn, though. 
+    This goes to the "maybe in the future" category. [Scikit-learn.jl](https://github.com/cstjean/ScikitLearn.jl) can do it with scikit-learn, though. 
 
     Nothing is out of the table, it's just too early to think of this.
 
@@ -67,5 +67,5 @@ A siren's song to unwitting Pythonistas. Also a semantic/functional clone of the
 - Implement the `core` module
 - Find out the 3 ... 5 ... most used modules and implement them.
 - Now I'll take requests from the audience. What's your favorite module that is not here yet?
-- (Maybe) somekind of integration with [Py2Jl.jl](/JuliaCN/Py2Jl.jl), or using [Pycall.jl](/JuliaPy/PyCall.jl) to make a bridge to Numpy.
+- (Maybe) somekind of integration with [Py2Jl.jl](https://github.com/JuliaCN/Py2Jl.jl), or using [Pycall.jl](https://github.com/JuliaPy/PyCall.jl) to make a bridge to Numpy.
 - Other ideas that may happen.
