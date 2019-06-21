@@ -1,4 +1,4 @@
 name = "Numpy"
 uuid = "f646face-9177-11e9-296c-c5297754380b"
-authors = ["Fabricio Cannini "]
-version = "0.1.0"
+authors = ["Fabricio Cannini"]
+version = "0.0.1"
